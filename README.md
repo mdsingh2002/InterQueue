@@ -1,3 +1,4 @@
+
 # InterQueue
 
 Experimenting with openai to create an mock interview tool
@@ -11,3 +12,5 @@ FrontEnd:
 React + TypeScript + TailwindCSS, tanstack or react query?
 
 start on mvp, allow them to ask system design and specifc leetcode questions
+
+have to use the STAR method or it tells you to chnage explanations?
