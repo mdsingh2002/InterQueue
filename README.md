@@ -9,3 +9,5 @@ FastAPI, PostgreSQL, SQLalchemy, Oauth?, redis?, openai
 
 FrontEnd:
 React + TypeScript + TailwindCSS, tanstack or react query?
+
+start on mvp
