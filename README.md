@@ -10,4 +10,4 @@ FastAPI, PostgreSQL, SQLalchemy, Oauth?, redis?, openai
 FrontEnd:
 React + TypeScript + TailwindCSS, tanstack or react query?
 
-start on mvp, allow them to ask system design
+start on mvp, allow them to ask system design and specifc leetcode questions
